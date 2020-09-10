@@ -5,7 +5,7 @@
 .hero{
     height: 100%;
     width: 100%;
-    background-image: url("../images/backimg.jpg");
+    background-image: url("..\mdkool\project\images");
     background-position: inherit;
     background-size: cover;
     position: absolute;
